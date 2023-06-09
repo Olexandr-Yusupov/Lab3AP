@@ -1,0 +1,4 @@
+#ifndef TEST_MODULE_H_INCLUDED
+#define TEST_MODULE_H_INCLUDED
+void menu();
+#endif // TEST_MODULE_H_INCLUDED
